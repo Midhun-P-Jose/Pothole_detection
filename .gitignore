@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+
+# YOLO outputs
+runs/
+
+# Full dataset (ignore heavy data)
+test/
+train/
+valid/
+train_subset/
+
+# Model weights
+*.pt
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

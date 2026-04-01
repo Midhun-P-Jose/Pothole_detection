@@ -1,0 +1,6 @@
+path: C:\Users\Midhun P Jose\Desktop\python\week29\pothhole_detection
+train: train_subset/images
+val: valid/images
+
+names:
+  0: pothole
